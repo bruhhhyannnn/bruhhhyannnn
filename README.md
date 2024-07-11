@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Jesus Mangapit</h1>
-<h3 align="center">Hey there! I am an enthusiastic Information Technology university student at the Mariano Marcos State University. I'm all about getting things done with a real passion for software development and love tackling new challenges head-on. I have a talent for finding solutions to issues and quickly taking up new computer abilities.</h3>
+<h3 align="center">Hey there! I am an enthusiastic Information Technology university student at the Mariano Marcos State University. I'm all about getting things done with a real passion for software development and I love tackling new challenges head-on. I have a talent for finding solutions to issues and quickly taking up new computer abilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruhhhyannnn&label=Profile%20views&color=0e75b6&style=flat" alt="bruhhhyannnn" /> </p>
 
