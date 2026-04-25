@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bryan! 👋
+# Hi there, I'm Bryan!
 
 ### Junior Developer • Full-Stack Enthusiast • Problem Solver
 
@@ -12,18 +12,18 @@ _Building scalable solutions from the Philippines 🇵🇭_
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer from **Ilocos Norte, Philippines**, specializing in building scalable applications that solve real-world problems. Currently working on **JEEP-IN**, a fleet monitoring system, while exploring system design patterns and full-stack architecture.
 
-🔭 **Current Focus:** Refining personal projects and diving deep into system design  
-🌱 **Learning:** Advanced system architecture, cloud solutions, and mobile development  
-🤝 **Open to:** Collaborating on innovative projects and commercial opportunities  
-💡 **Always:** Eager to learn, share knowledge, and tackle challenging problems
+**Current Focus:** Refining personal projects and diving deep into system design  
+**Learning:** Advanced system architecture, cloud solutions, and mobile development  
+**Open to:** Collaborating on innovative projects and commercial opportunities  
+**Always:** Eager to learn, share knowledge, and tackle challenging problems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category           | Tools                                                                                                                                                                                                                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ I'm a passionate developer from **Ilocos Norte, Philippines**, specializing in b
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -52,18 +52,18 @@ I'm a passionate developer from **Ilocos Norte, Philippines**, specializing in b
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
-- 🚀 Opportunities to contribute to impactful commercial projects
-- 📚 Comprehensive system design and architecture courses
-- 💼 Challenging problems in full-stack development, cloud architecture, or mobile apps
-- 🤝 Collaborations with passionate developers and teams
+- Opportunities to contribute to impactful commercial projects
+- Comprehensive system design and architecture courses
+- Challenging problems in full-stack development, cloud architecture, or mobile apps
+- Collaborations with passionate developers and teams
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+### Let's Connect!
 
 _I'm always excited to collaborate on interesting projects and tackle challenging problems._  
 _Feel free to reach out — let's build something amazing together!_
